@@ -5,3 +5,9 @@
   font-family: 'Segoe UI', sans-serif;
 }
 
+body {
+  color: aliceblue;
+  background-color: aqua;
+  margin: 39px;
+  padding: 39px;
+}
