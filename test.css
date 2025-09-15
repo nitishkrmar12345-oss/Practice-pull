@@ -19,6 +19,11 @@ body {
 }
 
 .new {
+<<<<<<< HEAD
   color: chartreuse;
   height: 100px;
+=======
+  color: green;
+  height: 99px;
+>>>>>>> about
 }
