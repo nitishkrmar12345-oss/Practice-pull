@@ -188,3 +188,7 @@ button.addEventListener("click", () => {
 
 
 consle.log("MY first code ")
+
+function intro() {
+  console.log('My name is Ritik. I am welcoming you to coding world.');
+}
